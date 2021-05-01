@@ -1,2 +1,0 @@
-# SPSS
-Proyecto SPSS
